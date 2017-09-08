@@ -1,0 +1,19 @@
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\bin\Debug\ninja go.exe.config
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\bin\Debug\ninja go.exe
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\bin\Debug\ninja go.pdb
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\bin\Debug\MahApps.Metro.dll
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\bin\Debug\System.Windows.Interactivity.dll
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\bin\Debug\MahApps.Metro.pdb
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\bin\Debug\MahApps.Metro.xml
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\ninja go.csprojResolveAssemblyReference.cache
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\MainWindow.g.cs
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\App.g.cs
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\ninja go_MarkupCompile.cache
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\ninja go_MarkupCompile.lref
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\App.baml
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\MainWindow.baml
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\ninja go.g.resources
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\ninja_go.Properties.Resources.resources
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\ninja go.csproj.GenerateResource.Cache
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\ninja go.exe
+c:\users\benje\documents\visual studio 2015\Projects\ninja go\ninja go\obj\Debug\ninja go.pdb
