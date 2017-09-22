@@ -1,0 +1,19 @@
+﻿<Window x:Class="Ninjago.Accueil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ninjago"
+        mc:Ignorable="d"
+        Title="Accueil" Height="500" Width="500">
+    <Grid>
+        <Image x:Name="Logo_Lego_Ninjago___Masters_of_Spinjitzu_png" Margin="56,10,55,362" Source="Logo_Lego_Ninjago_-_Masters_of_Spinjitzu.png" Stretch="Fill"/>
+        <Button x:Name="button" Content="Collection" HorizontalAlignment="Left" Margin="133,174,0,0" VerticalAlignment="Top" Width="199" Height="53" FontSize="25"/>
+        <Button x:Name="button_Copy1" Content="1 v IA" HorizontalAlignment="Left" Margin="133,330,0,0" VerticalAlignment="Top" Width="199" Height="53" FontSize="25"/>
+        <Button x:Name="button_Copy" Content="1 v 1" HorizontalAlignment="Left" Margin="133,251,0,0" VerticalAlignment="Top" Width="199" Height="53" FontSize="25"/>
+        <Image x:Name="Joueur_2_png" Margin="348,238,68,156" Source="Joueur 2.png" Stretch="Fill"/>
+        <Image x:Name="Joueur_1_png" Margin="46,241,370,156" Source="Joueur 1.png" Stretch="Fill"/>
+        <Image x:Name="Joueur_1_png_Copy" Margin="46,319,370,78" Source="Joueur 1.png" Stretch="Fill"/>
+        <Image x:Name="portable_jpg" Margin="342,322,63,87" Source="portable.jpg" Stretch="Fill"/>
+    </Grid>
+</Window>
