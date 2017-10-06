@@ -10,18 +10,16 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
-using MahApps.Metro.Controls;
 
 namespace Ninjago
 {
     /// <summary>
-    /// Logique d'interaction pour MainWindow.xaml
+    /// Logique d'interaction pour Accueil.xaml
     /// </summary>
-    public partial class MainWindow : MetroWindow
+    public partial class Accueil : Window
     {
-        public MainWindow()
+        public Accueil()
         {
             InitializeComponent();
         }

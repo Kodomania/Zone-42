@@ -1,0 +1,43 @@
+﻿<Window x:Class="Ninjago.Gestion_collect"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ninjago"
+        mc:Ignorable="d"
+        Title="Gestion_collect" Height="720" Width="1080">
+    <Grid>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="451" Margin="32,130,0,0" VerticalAlignment="Top" Width="366" BorderThickness="5"/>
+        <Button x:Name="button" Content="Ajouter une carte à la collection" HorizontalAlignment="Left" Margin="59,606,0,0" VerticalAlignment="Top" Width="309" Height="40" BorderThickness="2" FontSize="15"/>
+        <Button x:Name="button1" Content="Ajouter au deck" HorizontalAlignment="Left" Margin="439,234,0,0" VerticalAlignment="Top" Width="170" RenderTransformOrigin="0.907,0.667" BorderThickness="2" FontSize="15"/>
+        <Button x:Name="button1_Copy" Content="Supprimer du deck" HorizontalAlignment="Left" Margin="439,301,0,0" VerticalAlignment="Top" Width="170" RenderTransformOrigin="0.907,0.667" BorderThickness="2" FontSize="15"/>
+        <ListBox x:Name="listBox_Copy" HorizontalAlignment="Left" Height="451" Margin="651,130,0,0" VerticalAlignment="Top" Width="379" BorderThickness="5"/>
+        <Button x:Name="button_Copy" Content="Creer un nouveau deck" HorizontalAlignment="Left" Margin="688,606,0,0" VerticalAlignment="Top" Width="309" Height="40" BorderThickness="2" FontSize="15"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="237" Margin="427,394,0,0" Stroke="Black" VerticalAlignment="Top" Width="190"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="421,509,0,0" TextWrapping="Wrap" Text="Défense" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="17" Width="45">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.375"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="511,611,0,0" TextWrapping="Wrap" Text="Force" VerticalAlignment="Top" TextAlignment="Center" Height="17" Width="35"/>
+        <TextBlock x:Name="textBlock4" HorizontalAlignment="Left" Margin="585,509,0,0" TextWrapping="Wrap" Text="Vitesse" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="15" Width="38">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="textBlock3_Copy" HorizontalAlignment="Left" Margin="498,402,0,0" TextWrapping="Wrap" Text="Attaque" VerticalAlignment="Top" Height="25" Width="44"/>
+        <Label x:Name="label" Content="Ma collection" HorizontalAlignment="Left" Margin="32,44,0,0" VerticalAlignment="Top" Height="55" Width="398" FontSize="35" FontWeight="Bold"/>
+        <Label x:Name="label_Copy" Content="Deck actuel" HorizontalAlignment="Left" Margin="651,44,0,0" VerticalAlignment="Top" Height="55" Width="398" FontSize="35" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
